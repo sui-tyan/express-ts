@@ -1,0 +1,16 @@
+{
+  "name": "express-ts",
+  "version": "1.0.0",
+  "description": "A typescript template for express",
+  "main": "create-express-template.js",
+  "scripts": {},
+  "keywords": [
+    "Typescript",
+    "Expressjs"
+  ],
+  "author": "Adrian Mallari",
+  "license": "ISC",
+  "bin": {
+    "express-ts": "./index.js"
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "name": "r2l-api",
+  "name": "project_name",
   "version": "1.0.0",
-  "description": "An API for Rights2LIFE",
+  "description": "",
   "main": "main.js",
   "scripts": {
     "build": "npx tsc && npx tsc-alias",
@@ -9,10 +9,8 @@
     "dev": "ts-node-dev --env-file=.env -r tsconfig-paths/register src/main.ts",
     "test": "npx jest"
   },
-  "keywords": [
-    "Rights2LIFE"
-  ],
-  "author": "Adrian Mallari",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
